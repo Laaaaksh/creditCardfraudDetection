@@ -1,4 +1,2 @@
-Username : laaaaksh  
-Install Kafka - https://tecadmin.net/install-apache-kafka-ubuntu/  
-Install java - https://dzone.com/articles/running-apache-kafka-on-windows-os  
-To run docker - https://stackoverflow.com/questions/52197246/system-has-not-been-booted-with-systemd-as-init-system-pid-1-cant-operate  
+It is an AI project. Frauds are almost everywhere. Credit card fraud detection is one of the most commonly used applications in the finance industry. Here I tried to both develop and deploy the project.
+Dataset link - https://www.kaggle.com/mlg-ulb/creditcardfraud
